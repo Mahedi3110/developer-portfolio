@@ -9,6 +9,7 @@ h1{
 }
 section{
     display: flex;
+    margin: 50px;
 }
 .devide{
     width: 50%;
@@ -28,4 +29,9 @@ section{
 .top-banner{
     background-image: url(images/bg.jpg);
     background-repeat: no-repeat;
+}
+.dream-big{
+    background-image: url(images/right.jpg);
+    background-repeat: no-repeat;
+    background-position: right;
 }
